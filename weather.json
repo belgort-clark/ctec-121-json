@@ -1,0 +1,204 @@
+{
+    "weather_data": [
+        {
+            "zip_code": "98663",
+            "city": "Vancouver",
+            "state": "WA",
+            "temperature_f": 80,
+            "humidity": 55,
+            "air_quality_index": 37,
+            "conditions": "Rainy",
+            "wind_speed_mph": 7
+        },
+        {
+            "zip_code": "10001",
+            "city": "New York",
+            "state": "NY",
+            "temperature_f": 49,
+            "humidity": 72,
+            "air_quality_index": 54,
+            "conditions": "Foggy",
+            "wind_speed_mph": 3
+        },
+        {
+            "zip_code": "94105",
+            "city": "San Francisco",
+            "state": "CA",
+            "temperature_f": 30,
+            "humidity": 78,
+            "air_quality_index": 97,
+            "conditions": "Partly Cloudy",
+            "wind_speed_mph": 13
+        },
+        {
+            "zip_code": "60601",
+            "city": "Chicago",
+            "state": "IL",
+            "temperature_f": 51,
+            "humidity": 54,
+            "air_quality_index": 133,
+            "conditions": "Sunny",
+            "wind_speed_mph": 12
+        },
+        {
+            "zip_code": "73301",
+            "city": "Austin",
+            "state": "TX",
+            "temperature_f": 54,
+            "humidity": 58,
+            "air_quality_index": 190,
+            "conditions": "Snowy",
+            "wind_speed_mph": 13
+        },
+        {
+            "zip_code": "85001",
+            "city": "Phoenix",
+            "state": "AZ",
+            "temperature_f": 90,
+            "humidity": 42,
+            "air_quality_index": 52,
+            "conditions": "Partly Cloudy",
+            "wind_speed_mph": 3
+        },
+        {
+            "zip_code": "30301",
+            "city": "Atlanta",
+            "state": "GA",
+            "temperature_f": 67,
+            "humidity": 82,
+            "air_quality_index": 34,
+            "conditions": "Cloudy",
+            "wind_speed_mph": 9
+        },
+        {
+            "zip_code": "48226",
+            "city": "Detroit",
+            "state": "MI",
+            "temperature_f": 87,
+            "humidity": 44,
+            "air_quality_index": 58,
+            "conditions": "Snowy",
+            "wind_speed_mph": 2
+        },
+        {
+            "zip_code": "15201",
+            "city": "Pittsburgh",
+            "state": "PA",
+            "temperature_f": 90,
+            "humidity": 57,
+            "air_quality_index": 291,
+            "conditions": "Foggy",
+            "wind_speed_mph": 3
+        },
+        {
+            "zip_code": "20001",
+            "city": "Washington",
+            "state": "DC",
+            "temperature_f": 73,
+            "humidity": 58,
+            "air_quality_index": 187,
+            "conditions": "Windy",
+            "wind_speed_mph": 17
+        },
+        {
+            "zip_code": "98101",
+            "city": "Seattle",
+            "state": "WA",
+            "temperature_f": 88,
+            "humidity": 53,
+            "air_quality_index": 112,
+            "conditions": "Cloudy",
+            "wind_speed_mph": 7
+        },
+        {
+            "zip_code": "33101",
+            "city": "Miami",
+            "state": "FL",
+            "temperature_f": 95,
+            "humidity": 44,
+            "air_quality_index": 290,
+            "conditions": "Sunny",
+            "wind_speed_mph": 16
+        },
+        {
+            "zip_code": "55401",
+            "city": "Minneapolis",
+            "state": "MN",
+            "temperature_f": 66,
+            "humidity": 61,
+            "air_quality_index": 94,
+            "conditions": "Cloudy",
+            "wind_speed_mph": 5
+        },
+        {
+            "zip_code": "37201",
+            "city": "Nashville",
+            "state": "TN",
+            "temperature_f": 33,
+            "humidity": 87,
+            "air_quality_index": 94,
+            "conditions": "Sunny",
+            "wind_speed_mph": 19
+        },
+        {
+            "zip_code": "90001",
+            "city": "Los Angeles",
+            "state": "CA",
+            "temperature_f": 74,
+            "humidity": 86,
+            "air_quality_index": 61,
+            "conditions": "Sunny",
+            "wind_speed_mph": 12
+        },
+        {
+            "zip_code": "80202",
+            "city": "Denver",
+            "state": "CO",
+            "temperature_f": 92,
+            "humidity": 49,
+            "air_quality_index": 284,
+            "conditions": "Snowy",
+            "wind_speed_mph": 13
+        },
+        {
+            "zip_code": "21201",
+            "city": "Baltimore",
+            "state": "MD",
+            "temperature_f": 30,
+            "humidity": 63,
+            "air_quality_index": 193,
+            "conditions": "Partly Cloudy",
+            "wind_speed_mph": 23
+        },
+        {
+            "zip_code": "89101",
+            "city": "Las Vegas",
+            "state": "NV",
+            "temperature_f": 52,
+            "humidity": 61,
+            "air_quality_index": 103,
+            "conditions": "Cloudy",
+            "wind_speed_mph": 10
+        },
+        {
+            "zip_code": "32801",
+            "city": "Orlando",
+            "state": "FL",
+            "temperature_f": 50,
+            "humidity": 50,
+            "air_quality_index": 170,
+            "conditions": "Snowy",
+            "wind_speed_mph": 12
+        },
+        {
+            "zip_code": "19101",
+            "city": "Philadelphia",
+            "state": "PA",
+            "temperature_f": 47,
+            "humidity": 69,
+            "air_quality_index": 143,
+            "conditions": "Cloudy",
+            "wind_speed_mph": 8
+        }
+    ]
+}
