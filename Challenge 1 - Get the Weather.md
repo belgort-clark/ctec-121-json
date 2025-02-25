@@ -1,5 +1,7 @@
 # **CTEC 121 Assignment: Fetching Weather Data by ZIP Code Using Python and Requests**
 
+Use the [Libraries Lecture Notes](https://cs50.harvard.edu/python/2022/notes/4/) for reference!
+
 ## **Assignment Overview**  
 In this assignment, you will create a **command-line Python application** that retrieves weather data from an external JSON file. Your program will:  
 1. **Fetch and parse** weather data from a remote source.  
