@@ -70,9 +70,9 @@ If a user enters a username **not in this list**, the program should display an 
 - Use Python’s built-in `sorted()` function to find the most popular post.  
 
 ## **Submission Requirements**  
-- Submit your Python script (`social_media.py`).  
+- Groups will share out their Python script (`social_media.py`).  
 - Your code should be **well-commented** to explain each step.  
-- Ensure that your script runs **without errors** before submitting.  
+- Ensure that your script runs **without errors**.  
 
 ## **Bonus Challenge**  
 Modify your program to allow multiple usernames as arguments so that the program can display **comparisons between users** (e.g., who has the most followers or most-liked post).  
