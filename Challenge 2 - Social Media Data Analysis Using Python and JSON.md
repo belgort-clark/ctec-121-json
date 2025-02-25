@@ -1,5 +1,7 @@
 # **CTEC 121 Assignment: Social Media Data Analysis Using Python and JSON**
 
+Use the [Libraries Lecture Notes](https://cs50.harvard.edu/python/2022/notes/4/) for reference!
+
 ## **Assignment Overview**  
 In this assignment, you will create a **command-line Python application** that retrieves and analyzes social media data from an external JSON file. Your program will:  
 1. **Fetch and parse** a dataset containing user profiles, posts, comments, and likes.  
