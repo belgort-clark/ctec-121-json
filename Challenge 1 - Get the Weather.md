@@ -50,9 +50,9 @@ If a user enters a ZIP code **not in this list**, your program should display an
 - If an invalid ZIP code is entered, **print an error message**.  
 
 ## **Submission Requirements**  
-- Submit your Python script (`weather.py`).  
+- After an hour, groups will share their solutions.  
 - Your code should be **well-commented** to explain each step.  
-- Ensure that your script runs **without errors** before submitting.  
+- Ensure that your script runs **without errors**.  
 
 ## **Bonus Challenge**  
 Modify your program to allow multiple ZIP codes as arguments so that the weather details for each ZIP code are displayed.  
