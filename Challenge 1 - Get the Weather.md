@@ -50,7 +50,7 @@ If a user enters a ZIP code **not in this list**, your program should display an
 - If an invalid ZIP code is entered, **print an error message**.  
 
 ## **Submission Requirements**  
-- After an hour, groups will share their solutions.  
+- After an hour, groups will share their solutions (`weather.py`).  
 - Your code should be **well-commented** to explain each step.  
 - Ensure that your script runs **without errors**.  
 
